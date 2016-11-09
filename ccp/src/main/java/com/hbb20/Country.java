@@ -1331,7 +1331,7 @@ class Country {
         countries.add(new Country("bn", "673", "Brunei Darussalam"));
         countries.add(new Country("bg", "359", "Bulgaria"));
         countries.add(new Country("bf", "226", "Burkina Faso"));
-        countries.add(new Country("mm", "95", "Myanmar"));
+        countries.add(new Country("mm", "95", "Myanmar(Birmania)"));
         countries.add(new Country("bi", "257", "Burundi"));
         countries.add(new Country("kh", "855", "Camboya"));
         countries.add(new Country("cm", "237", "Camerún"));
@@ -1365,7 +1365,7 @@ class Country {
         countries.add(new Country("et", "251", "Etiopía"));
         countries.add(new Country("fk", "500", "Islas Malvinas (Falkland)"));
         countries.add(new Country("fo", "298", "Islas Faroe"));
-        countries.add(new Country("fj", "679", "Fiji"));
+        countries.add(new Country("fj", "679", "Fiyi"));
         countries.add(new Country("fi", "358", "Finlandia"));
         countries.add(new Country("fr", "33", "Francia"));
         countries.add(new Country("pf", "689", "Polinesia francés"));
@@ -1379,7 +1379,7 @@ class Country {
         countries.add(new Country("gl", "299", "Tierra Verde"));
         countries.add(new Country("gt", "502", "Guatemala"));
         countries.add(new Country("gn", "224", "Guinea"));
-        countries.add(new Country("gw", "245", "Guinea-Bissau"));
+        countries.add(new Country("gw", "245", "Guinea-Bisáu"));
         countries.add(new Country("gy", "592", "Guayana"));
         countries.add(new Country("ht", "509", "Haití"));
         countries.add(new Country("hn", "504", "Honduras"));
@@ -1393,7 +1393,7 @@ class Country {
         countries.add(new Country("im", "44", "Isla de Man"));
         countries.add(new Country("il", "972", "Israel"));
         countries.add(new Country("it", "39", "Italia"));
-        countries.add(new Country("ci", "225", "Côte D & apos; Marfil"));
+        countries.add(new Country("ci", "225", "Costa de Marfil"));
         countries.add(new Country("jp", "81", "Japón"));
         countries.add(new Country("jo", "962", "Jordán"));
         countries.add(new Country("kz", "7", "Kazajstán"));
@@ -1422,7 +1422,7 @@ class Country {
         countries.add(new Country("mr", "222", "Mauritania"));
         countries.add(new Country("mu", "230", "Mauricio"));
         countries.add(new Country("yt", "262", "Mayotte"));
-        countries.add(new Country("mx", "52", "Méjico"));
+        countries.add(new Country("mx", "52", "México"));
         countries.add(new Country("fm", "691", "Micronesia, Estados Federados de"));
         countries.add(new Country("md", "373", "Moldavia"));
         countries.add(new Country("mc", "377", "Mónaco"));
@@ -1480,11 +1480,11 @@ class Country {
         countries.add(new Country("pm", "508", "San Pedro y Miquelón"));
         countries.add(new Country("sd", "249", "Sudán"));
         countries.add(new Country("sr", "597", "Surinam"));
-        countries.add(new Country("sz", "268", "Swazilandia"));
+        countries.add(new Country("sz", "268", "Suazilandia"));
         countries.add(new Country("se", "46", "Suecia"));
         countries.add(new Country("ch", "41", "Suiza"));
         countries.add(new Country("sy", "963", "República Árabe Siria"));
-        countries.add(new Country("tw", "886", "Taiwan, provincia de China"));
+        countries.add(new Country("tw", "886", "Taiwán, provincia de China"));
         countries.add(new Country("tj", "992", "Tayikistán"));
         countries.add(new Country("tz", "255", "Tanzania, República Unida de"));
         countries.add(new Country("th", "66", "Tailandia"));
